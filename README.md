@@ -1,4 +1,16 @@
-# Petshop Landing Page
+# Petshop Landing Page 🐶🐱
+
+
+This modern and mobile-responsive landing page, built with **Next.js**, **React**, and **Tailwind CSS**, showcases a vibrant and engaging interface designed . 🦴🦜
+
+
+## Key Features:
+
+- **Sleek Design** 🎨: Eye-catching visuals and user-friendly layout.
+- **Mobile Responsive** 📱: Seamlessly adapts to various screen sizes for an optimal browsing experience.
+- **Built with Next.js & React** 🚀: Fast and efficient with dynamic content.
+- **Styled with Tailwind CSS** 💅: Utility-first CSS framework for easy and flexible styling.
+- 
 
 **Deployment Link**
 🌍🔗 https://petshop-gray.vercel.app/
